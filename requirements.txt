@@ -1,0 +1,36 @@
+# Streamlit 웹앱 프레임워크
+streamlit>=1.28.0
+
+# 허깅페이스 트랜스포머스 (AI 모델)
+transformers>=4.35.0
+torch>=2.0.0
+accelerate>=0.20.0
+
+# 데이터 처리
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 날짜/시간 처리 (Python 내장 datetime 사용)
+
+# JSON 처리 (Python 내장 json 사용)
+
+# 정규표현식 (Python 내장 re 사용)
+
+# SQLite 데이터베이스 (Python 내장 sqlite3 사용)
+
+# 타입 힌트 (Python 내장 typing 사용)
+
+# 캘린더 (Python 내장 calendar 사용)
+
+# 시간 지연 (Python 내장 time 사용)
+
+# GPU 지원을 위한 추가 패키지 (선택사항)
+# torchvision>=0.15.0  # GPU 사용시 필요할 수 있음
+# torchaudio>=2.0.0    # GPU 사용시 필요할 수 있음
+
+# 보안 및 안정성
+requests>=2.31.0
+
+# 개발 도구 (선택사항)
+# jupyter>=1.0.0       # 개발용
+# ipython>=8.0.0       # 개발용
